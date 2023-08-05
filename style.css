@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    font-size: 40px;
+    font-weight: 500;
+    font-family: arvo,serif;
+    color: #4c4a4c;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.main-content{
+    padding: 12px;
+    line-height: 24px;
+    font-size: 18px;
+    margin-right: 10px; 
+    margin-left: 10px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.main-content p{
+    margin-top: 0 0 10px;
+}
+
+.main-content-img{
+    background-image: url(swami_vivekanand_image.jpg);
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    
+    margin-top: 40px;
+}
+
+.content{
+    padding: 12px;
+    line-height: 24px;
+    font-size: 18px;
+    margin-right: 10px; 
+    margin-left: 10px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.img_2{
+    background-image: url(img_2.jpg);
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    
+    margin-top: 40px;
+}
+
+.img_3{
+    background-image: url(img_3.jpg);
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    max-width: 100%;
+    margin-top: 40px;
+}
+
+.img_4{
+    background-image: url(img_4.jpg);
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    max-width: 100%;
+    margin-top: 40px;
+}
+
+.img_5{
+    background-image: url(img_5.jpg);
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    max-width: 100%;
+    margin-top: 40px;
+}
